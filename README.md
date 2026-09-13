@@ -1,4 +1,4 @@
-# 📄 PDF Q&A Agent (Mini-RAG)
+# 📄 PDF Q&A Agent
 
 A simple RAG (Retrieval-Augmented Generation) app: upload a PDF, ask questions, get answers with **page numbers**.
 
